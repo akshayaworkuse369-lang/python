@@ -4,8 +4,6 @@ while i <= 10:
     print(i)
     i += 1
 
-
-
 #2 Print all even numbers from 1 to 20.
 
 num = 2
@@ -13,11 +11,9 @@ while num <= 20:
     print(num)
     num += 2
 
-
-
 #3 Print all odd numbers from 1 to 20.
 
-num = 3
+num = 1
 while num <= 20:
     print(num)
     num += 2
